@@ -58,9 +58,9 @@ The data used in this project comes from Microsoft’s **Adventure Works** datas
 2. Open the `.pbix` file using **Power BI Desktop**.
 3. Interact with slicers to explore the data by different categories or years.
 
-## 📬 Contact
-
-For any feedback or collaboration:
+---
+## 🙋‍♀️ About Me
 
 **Amany Saeed**  
-[GitHub Profile](https://github.com/amany-saeed99)
+Junior Data Analyst | Power BI Enthusiast  
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/amany-saeed/) 
