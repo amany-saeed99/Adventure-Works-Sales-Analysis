@@ -8,8 +8,12 @@ This repository contains a Power BI dashboard that visualizes and analyzes sales
 - **DAX**
 - **Power Query (M Language)**
 
-## 📁 Dataset
-The data used in this project comes from Microsoft’s **Adventure Works** dataset, which contains sales, customer, and product information across various regions and time periods.
+  ## 📚 Data Source
+
+The data used in this project comes from Microsoft’s official sample database, **Adventure Works**.
+
+You can learn more or download the dataset from the official documentation:  
+🔗 [Adventure Works Sample Database - Microsoft Docs](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver17&tabs=ssms)
 
 ## 📌 Objectives
 - Analyze total sales, profit, and number of orders across years.
